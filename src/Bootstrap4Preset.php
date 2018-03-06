@@ -41,7 +41,7 @@ class Bootstrap4Preset extends Preset
     protected static function updatePackageArray(array $packages)
     {
         return [
-            'bootstrap' => '^4.0.0-beta',
+            'bootstrap' => '^4.0.0',
             'jquery' => '^3.2.1',
             'tether' => '^1.4.0',
             'popper.js' => '^1.12.4',
